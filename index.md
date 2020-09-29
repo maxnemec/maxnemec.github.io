@@ -1,9 +1,6 @@
 ## About Myself
 
 My name is Max Nemec, I am currently a first year student at the Rochester Institute of Technology. I am from Burnt Hills, NY. In my free time I like to play soccer and practice the piano. 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -20,7 +17,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.krupsusa.com%2FRecipes%2FClassic-Belgian-Waffles%2Fr%2F239758&psig=AOvVaw01f7okQJCiuZhcFZ6UxAaP&ust=1601428237995000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC-kZ2XjewCFQAAAAAdAAAAABAD) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
