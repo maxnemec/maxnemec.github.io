@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## About Myself
 
-You can use the [editor on GitHub](https://github.com/maxnemec/maxnemec.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+My name is Max Nemec, I am currently a first year student at the Rochester Institute of Technology. I am from Burnt Hills, NY. In my free time I like to play soccer and practice the piano. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
