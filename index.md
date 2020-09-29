@@ -8,10 +8,8 @@ My name is Max Nemec, I am currently a first year student at the Rochester Insti
 
 Here is a link to the software engineering website
 [RIT SE Website](https://www.rit.edu/computing/department-software-engineering)
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maxnemec/maxnemec.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here is what I would like to learn from this course
+* How to better work in a team
+* Processes that Software Engineers use
+* How to make connections
