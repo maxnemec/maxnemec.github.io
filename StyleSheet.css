@@ -41,11 +41,21 @@
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 .grid-item {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: green;
     border: 1px solid rgba(0, 0, 0, 0.8);
     padding: 20px;
     font-size: 30px;
     text-align: center;
+    border-radius: 5px;
+    }
+
+.grid-item-full {
+    background-color: red;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 5px;
     }
 
 .grid-container {
