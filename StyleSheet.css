@@ -74,7 +74,7 @@
     grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
     grid-gap: 2px;
     background-color:orange;
-    padding: 200px;
+    height: 100px
     margin-left: auto;
     margin-right: auto;
 }
