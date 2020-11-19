@@ -50,6 +50,7 @@
     border-radius: 5px;
     box-shadow: 10px 10px 5px grey;
     text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
     }
 
 .grid-item-full {
@@ -61,6 +62,7 @@
     text-align: center;
     border-radius: 5px;
     box-shadow: 10px 10px 5px grey;
+    font-family: Arial, Helvetica, sans-serif;
     }
 
 .grid-container {
@@ -69,6 +71,7 @@
     grid-template-columns: auto auto auto auto;
     background-color:orange;
     padding: 200px;
+
 }
 
 .grid-row{ 
@@ -82,10 +85,16 @@
 
 .machine-empty{
     background-color: green;
-    height: 100px
+    height: 100px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .machine-full{
     background-color: red;
-    height: 100px
+    height: 100px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
 }
